@@ -1,2 +1,2 @@
 # face-recognize
-face recognition module 
+This is a python module for face detection and face comparison samples  
